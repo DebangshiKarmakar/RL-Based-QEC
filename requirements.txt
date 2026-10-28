@@ -1,0 +1,11 @@
+gymnasium==1.4.0
+matplotlib>=3.7.0
+numpy==2.2.5
+pymatching==2.4.0
+PyYAML==6.0.2
+pytest==9.2.0
+stim==1.16.0
+streamlit>=1.30.0
+
+matplotlib>=3.8.0
+streamlit>=1.30.0

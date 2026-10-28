@@ -1,0 +1,5 @@
+distance: 3
+rounds: 3
+p: 0.005
+shots: 100000
+seed: 1
